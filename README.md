@@ -1,4 +1,4 @@
-# test-repository
-This is a test description
+# My very first repo
+Joshua is an awesome teacher! I will leave him a nice review.
 
 This is the second example
